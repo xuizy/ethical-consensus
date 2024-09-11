@@ -25,4 +25,4 @@ To run the code in this repository, you will need the following dependencies:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://gitlab.com/your-username/your-repo-name.git
+   git clone https://gitlab.com/xuizy/ethical-consensus.git
